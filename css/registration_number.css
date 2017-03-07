@@ -23,6 +23,8 @@ body {
     -moz-display: flex;
     display: flex;
     overflow: hidden;
+    align-content: center;
+    justify-content: center;
 }
 
 .navbar {
